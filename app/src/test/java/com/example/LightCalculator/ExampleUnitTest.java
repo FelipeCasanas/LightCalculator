@@ -1,4 +1,4 @@
-package com.example.lightcalculator;
+package com.example.LightCalculator;
 
 import org.junit.Test;
 
